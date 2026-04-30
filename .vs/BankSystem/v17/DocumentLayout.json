@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\customerconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\customerconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\transcationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\transcationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\migrations\\20260430170021_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:migrations\\20260430170021_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\accountcustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\accountcustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\transcationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\transcationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,22 +67,6 @@
       "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\customerconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\customerconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|d:\\education\\routeasp tasks\\ef\\banksystem\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE211791-0709-4BED-9B32-820ABE6BCAAD}|BankSystem.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,71 +87,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260430170021_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260430170021_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260430170021_InitialCreate.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260430170021_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20260430170021_InitialCreate.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "BankService.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "Services\\BankService.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Services\\BankService.cs",
+              "RelativeToolTip": "Services\\BankService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T17:00:21.527Z",
+              "WhenOpened": "2026-04-30T17:13:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerAccount.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\CustomerAccount.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerAccount.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\CustomerAccount.cs",
+              "RelativeToolTip": "Models\\CustomerAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:25:14.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260426175716_IntialCraete.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175716_IntialCraete.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260426175716_IntialCraete.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175716_IntialCraete.cs",
-              "RelativeToolTip": "Migrations\\20260426175716_IntialCraete.cs",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBMAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:57:17.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T16:56:30.278Z",
+              "WhenOpened": "2026-04-26T17:23:04.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20260426175545_Models.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175545_Models.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260426175545_Models.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175545_Models.cs",
-              "RelativeToolTip": "Migrations\\20260426175545_Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\BranchConfiguration.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\BranchConfiguration.cs",
+              "RelativeToolTip": "Configurations\\BranchConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:55:45.415Z"
+              "WhenOpened": "2026-04-26T17:07:44.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountCustomerConfiguration.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\AccountCustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\AccountCustomerConfiguration.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\AccountCustomerConfiguration.cs",
-              "RelativeToolTip": "Configurations\\AccountCustomerConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCIAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomerConfiguartion.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\CustomerConfiguartion.cs",
+              "RelativeDocumentMoniker": "Configurations\\CustomerConfiguartion.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\CustomerConfiguartion.cs",
+              "RelativeToolTip": "Configurations\\CustomerConfiguartion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:33:00.106Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-04-26T17:28:39.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,11 +163,72 @@
               "RelativeToolTip": "Configurations\\TranscationConfiguration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:42:58.64Z"
+              "WhenOpened": "2026-04-26T17:42:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260430170021_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260430170021_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260430170021_InitialCreate.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260430170021_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260430170021_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:00:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260426175545_Models.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175545_Models.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260426175545_Models.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175545_Models.cs",
+              "RelativeToolTip": "Migrations\\20260426175545_Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:55:45.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:56:30.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260426175716_IntialCraete.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175716_IntialCraete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260426175716_IntialCraete.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Migrations\\20260426175716_IntialCraete.cs",
+              "RelativeToolTip": "Migrations\\20260426175716_IntialCraete.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:57:17.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountCustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\AccountCustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\AccountCustomerConfiguration.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\AccountCustomerConfiguration.cs",
+              "RelativeToolTip": "Configurations\\AccountCustomerConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:33:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Transcation.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Transcation.cs",
               "RelativeDocumentMoniker": "Models\\Transcation.cs",
@@ -175,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Branch.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Models\\Branch.cs",
@@ -187,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AccountConfiguration.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\AccountConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\AccountConfiguration.cs",
@@ -199,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
@@ -211,31 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerConfiguartion.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\CustomerConfiguartion.cs",
-              "RelativeDocumentMoniker": "Configurations\\CustomerConfiguartion.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\CustomerConfiguartion.cs",
-              "RelativeToolTip": "Configurations\\CustomerConfiguartion.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:28:39.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBMAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:23:04.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ManagerConfiguration.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\ManagerConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ManagerConfiguration.cs",
@@ -247,31 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerAccount.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\CustomerAccount.cs",
-              "RelativeDocumentMoniker": "Models\\CustomerAccount.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\CustomerAccount.cs",
-              "RelativeToolTip": "Models\\CustomerAccount.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:25:14.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BranchConfiguration.cs",
-              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\BranchConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\BranchConfiguration.cs",
-              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Configurations\\BranchConfiguration.cs",
-              "RelativeToolTip": "Configurations\\BranchConfiguration.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:07:44.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Models\\Manager.cs",
               "RelativeDocumentMoniker": "Models\\Manager.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -292,6 +309,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T16:50:28.451Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
