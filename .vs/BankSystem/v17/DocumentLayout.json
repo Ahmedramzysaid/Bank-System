@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Services\\BankService.cs",
               "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\BankSystem\\Services\\BankService.cs",
               "RelativeToolTip": "Services\\BankService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T17:13:47.631Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "Models\\CustomerAccount.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:25:14.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T17:25:14.941Z"
             },
             {
               "$type": "Document",
@@ -120,12 +119,7 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBMAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:23:04.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-04-26T17:23:04.919Z"
             },
             {
               "$type": "Document",
@@ -137,8 +131,7 @@
               "RelativeToolTip": "Configurations\\BranchConfiguration.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:07:44.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T17:07:44.198Z"
             },
             {
               "$type": "Document",
@@ -150,8 +143,7 @@
               "RelativeToolTip": "Configurations\\CustomerConfiguartion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:28:39.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T17:28:39.834Z"
             },
             {
               "$type": "Document",
@@ -163,8 +155,7 @@
               "RelativeToolTip": "Configurations\\TranscationConfiguration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:42:58.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T17:42:58.64Z"
             },
             {
               "$type": "Document",
@@ -176,8 +167,7 @@
               "RelativeToolTip": "Migrations\\20260430170021_InitialCreate.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T17:00:21.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T17:00:21.527Z"
             },
             {
               "$type": "Document",
@@ -309,6 +299,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T16:50:28.451Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
