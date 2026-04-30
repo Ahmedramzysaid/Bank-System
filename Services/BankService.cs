@@ -41,7 +41,7 @@ namespace BankSystem.Services
             string imagePath = System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, "Screenshot 2026-04-30 192257.png");
 
             await _emailService.SendEmailAsync(
-                "rawwannttarekk@gmail.com",
+                "rawan.route45@gmail.com",
                 "New Customer Notification",
                 bodyHtml,
                 imagePath
